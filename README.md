@@ -56,7 +56,6 @@ Tableau Korea 자기주도형 부트캠프에 참여하여 다양한 Tableau 기
 
 <br>
 <br>
-<br>
 
 ✓ &nbsp;테이블 계산식과 세부 수준 계산식(LOD)을 적용한 시각화
 
@@ -64,13 +63,11 @@ Tableau Korea 자기주도형 부트캠프에 참여하여 다양한 Tableau 기
 
 <br>
 <br>
-<br>
 
 ✓ &nbsp;집합 동작과 매개변수 변경을 이용한 인터랙티브 대시보드 구현
 
 ![Component 3 (1)](https://github.com/user-attachments/assets/e250e79c-6793-49e9-bcc4-9c17c4de7879)
 
-<br>
 <br>
 <br>
 
