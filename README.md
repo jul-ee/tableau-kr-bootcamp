@@ -10,7 +10,6 @@ Tableau Korea 자기주도형 부트캠프에 참여하여 다양한 Tableau 기
 
 
 <br>
-<br>
 
 ## 참여 목적
 
@@ -37,7 +36,6 @@ Tableau Korea 자기주도형 부트캠프에 참여하여 다양한 Tableau 기
 
 <br>
 <br>
-<br>
 
 ✓ &nbsp;매개변수를 생성하여 사용자와 상호작용할 수 있는 인터랙티브 시각화 구현
 
@@ -61,6 +59,7 @@ Tableau Korea 자기주도형 부트캠프에 참여하여 다양한 Tableau 기
 
 <img width="900" alt="Day6_02" src="https://github.com/user-attachments/assets/706e94c1-c04a-40d9-94cb-b7f09ac15447" />
 
+<br>
 <br>
 <br>
 
