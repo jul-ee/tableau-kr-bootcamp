@@ -28,11 +28,13 @@ Tableau Korea 자기주도형 부트캠프에 참여하여 다양한 Tableau 기
 | 10일차 | Tableau Prep 데이터 병합 | Union, Join, 파일 출력 |
 
 <br>
-<br>
+
+> 더 다양한 시각화 결과물은 [velog.io/@jul-ee](https://velog.io/@jul-ee/Tableau-Bootcamp-Day-1)에서 확인하실 수 있습니다.
+
 
 ✓ &nbsp;기본 시각화 유형과 여러 차트 차트를 하나의 대시보드에 구성하는 레이아웃 설계
 
-![Component 3](https://github.com/user-attachments/assets/e8aa30c6-354f-4c1d-bdfd-5a1397a2472a)
+![Component 3 (2)](https://github.com/user-attachments/assets/e6ea2588-5ce9-4932-97c5-653d894b4288)
 
 <br>
 <br>
